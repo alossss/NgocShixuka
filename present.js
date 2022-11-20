@@ -1,6 +1,6 @@
 
 var to = 'Ngọc tâm sờ trạng!';
-var gift_url = 'https://www.facebook.com/profile.php?id=100045266374870';
+var gift_url = 'https://www.facebook.com/profile.php?id=100009447779887';
 var gift_image_url = 'hot-girl.png.jpg';
 
 
